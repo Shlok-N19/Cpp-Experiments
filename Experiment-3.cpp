@@ -1,4 +1,4 @@
-/*  PRN:22070123118
+/*  PRN:22070123115
     Experiment no:3(a)
 */
 #include<iostream>
