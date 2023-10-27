@@ -42,7 +42,7 @@ Enter a string: Hi My Name is Shlok
 The lenght of the string is: 19
 */
 
-/*PRN: 22070123118
+/*PRN: 22070123115
 Experiment-no: 8(c)*/
 #include <iostream>
 #include<string.h>
